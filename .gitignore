@@ -1,0 +1,9 @@
+flask/
+__pycache__
+*.pyc
+dev
+yarn.lock
+yarn-error.log
+*.psd
+.env
+.python-version
